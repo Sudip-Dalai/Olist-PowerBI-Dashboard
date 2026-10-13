@@ -8,7 +8,6 @@ This project provides an end-to-end business intelligence solution for Olist, a 
 ---
 
 ## 📊 Dashboard Preview
-![Olist E-Commerce Dashboard](Olist_dashboard.png)
 
 *(📄 [Click here to view the high-resolution PDF version](Olist%20E%20Commerce%20Performance%20dashboard.pdf))*
 
